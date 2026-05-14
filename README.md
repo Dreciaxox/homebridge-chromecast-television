@@ -33,3 +33,11 @@ Due to an Apple limitation TV-type devices cannot be controlled in 3rd party Hom
 
 ## Credits
 This project is based on [@homebridge-control-chromecast](https://github.com/yotamtal/homebridge-control-chromecast#readme)
+
+
+## Free Link-in-Bio Page (with Gumroad)
+A ready-to-publish page is included at `bio.html`.
+
+1. Edit placeholders in `bio.html` (`@yourname`, social links, and `https://gumroad.com/your-gumroad-username`).
+2. Push to GitHub and enable **GitHub Pages** in repository settings (branch: `main`, folder: `/root`) to get a free live URL.
+3. Use that URL as your link-in-bio.
